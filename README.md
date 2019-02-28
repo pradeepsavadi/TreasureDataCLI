@@ -3,7 +3,7 @@ This project is aimed at building a CLI tool which can be used to run queries on
 ## **Getting Started**
        
 
--Please follow the instructions below to successfully run the 
+- Please follow the instructions below to successfully run the Treasure Data cli
 
 ##  **Prerequisites**
 
